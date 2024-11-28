@@ -74,4 +74,4 @@ We welcome contributions to improve the game! If you'd like to help, feel free t
 4. Write your code, test it, and make sure the game works as expected.
 5. Submit a pull request with a description of the changes you made.
 
-- Make sure your changes align with the overall style and functionality of the game. We appreciate all contributions!
+Make sure your changes align with the overall style and functionality of the game. We appreciate all contributions!
