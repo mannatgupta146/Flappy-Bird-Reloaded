@@ -48,3 +48,9 @@ h3 {
 #restart:hover {
   background: #e84323;
 }
+
+#canvas {
+  width: 100vw; 
+  height: 100vh; 
+  background-size: cover; 
+}
